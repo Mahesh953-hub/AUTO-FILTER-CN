@@ -123,7 +123,7 @@ Use these commands:
 <b>Click on the below button to deploy on render.</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/HA-Bots/Auto-Filter-Bot/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/Mahesh953-hub/Auto-Filter-Bot/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
