@@ -1,0 +1,12 @@
+# render.yml
+services:
+  - type: web
+    name: github-manager-bot
+    env: docker
+    plan: starter
+    expose :
+      - port: 3000
+    buildCommand: docker build  .
+    startCommand: docker run -p 0.0.0.0:3000:3000 .
+    dockerfilePath: Dockerfile
+    healthCheckPath: /
